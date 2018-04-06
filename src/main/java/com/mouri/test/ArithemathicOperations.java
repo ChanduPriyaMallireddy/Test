@@ -15,6 +15,7 @@ public class ArithemathicOperations {
 	{
 		return a*b;
 	}
+// add new line	
 	
 //	public static void main(String[]args){
 //		System.out.println(addition(10,20));
